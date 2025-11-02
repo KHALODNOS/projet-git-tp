@@ -10,3 +10,6 @@ Ce projet est un exercice pratique sur Git.
 ## Fonctionnalités
 
 - Module de calcul
+
+Ceci est une ligne ajoutée directement depuis GitHub.
+
