@@ -7,6 +7,7 @@ Ce projet est un exercice pratique sur Git.
 ## Modules
 
 - Calcul mathématique
+
 ## Fonctionnalités
 
 - Module de calcul
